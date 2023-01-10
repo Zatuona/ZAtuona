@@ -1,7 +1,7 @@
-### Hi there, I'm Zoe! 👋
+### Hi there, I'm Zoe! 👋🏿
 
 I'm...
-- :construction_worker_woman:	:soon: :woman_technologist: A BEng Civil Engineer currently in the process of transitioning into tech
+- 👷🏿‍♀️	:soon: 👩🏿‍💻 A BEng Civil Engineer currently in the process of transitioning into tech
 - :mortar_board:	 An alumna of the Black CodHer and Wiley Edge Programmes
 - :smile: Excited about learning new technologies
 - :bulb: Familiar with the following tech stack...
@@ -13,14 +13,5 @@ I'm...
 <!--
 **Zatuona/ZAtuona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’ve just graduated with a Civil Engineering degree...
-- 🌱 I’m currently learning how to code with the Black Codher gang.
-- :NG:
-- 🤔 I’m looking for help with *everything* to do with coding; I feel like an absolute beginner!
-- 💬 Ask me about anything to do with cats, RHo Atlanta, Potomac or Beverly Hills.
-- 📫 How to reach me: Slack: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
